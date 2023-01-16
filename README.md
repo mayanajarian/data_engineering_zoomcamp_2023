@@ -1,2 +1,2 @@
-# data_engineering_zoomcamp_2023
-Notes and materials related to completing the Data Engineering Zoomcamp 2023
+# Data Engineering Zoomcamp 2023
+Notes and materials related to completing the [Data Engineering Zoomcamp 2023](https://github.com/DataTalksClub/data-engineering-zoomcamp)
